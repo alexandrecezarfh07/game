@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+   background-color: brown;
+   color: white;
+   height: 100vh;
+   width: 100vw;
+}
+
+.botão {
+   text-align: center;
+   margin-right: 45px;
+}
+
+.texto{
+text-align: center;
+height: 80%;
+display: block;
+line-height: 1.5;
+font-size: 20px;
+}
+
+.texto li{
+list-style-position: inside;
+margin-right: 45px;
+}
+
+
+.container{
+   text-align: center;
+   
+}

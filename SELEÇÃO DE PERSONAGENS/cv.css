@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.titulo{
+    margin-top: 30px;
+}
+
+.titulo h2{
+margin: 15px;
+margin-left: 160px;
+}
+
+.container {
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+
+
+.foto {
+    height: 300px;
+    border-radius: 15px;
+    border: 0;
+}
+
+.fotoj {
+    height: 300px;
+    width: 300px;
+    border-radius: 15px;
+    border: 0;
+}
+
+.container2 {
+    justify-content: space-evenly;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-top: 5%;
+}
+
+
+
+.personagem {
+    margin: auto;
+    text-align: center;
+    width: 300px;
+    height: 800px;
+}
+
+.foto:hover {
+opacity: 0.5;
+}
+
+.fotoj:hover{
+    opacity: 0.5;
+    }
+
+.personagem h3 {
+margin-top: 15px;
+}
+
